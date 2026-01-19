@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_Device"
+        android:icon="@drawable/ac"
+        android:title="Device"/>
+    <item
+        android:id="@+id/nav_AddDevice"
+        android:icon="@drawable/add"
+        android:title="Add Device"/>
+
+    <item
+        android:id="@+id/nav_ControlDevice"
+        android:icon="@drawable/control_center"
+        android:title="Control Device"/>
+
+    <item
+        android:id="@+id/nav_ManageDevice"
+        android:icon="@drawable/managedevice"
+        android:title="Manage Device"/>
+</menu>

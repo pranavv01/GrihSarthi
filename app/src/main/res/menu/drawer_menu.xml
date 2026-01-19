@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Contact"
+        android:title="Contact"
+        android:icon="@drawable/contact" />
+
+    <item
+        android:id="@+id/About"
+        android:title="About"
+        android:icon="@drawable/about" />
+
+    <item
+        android:id="@+id/Help"
+        android:title="Help"
+        android:icon="@drawable/help" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="logout"
+        android:icon="@drawable/logout" />
+
+</menu>

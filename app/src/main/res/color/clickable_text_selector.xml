@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Color when pressed -->
+    <item android:state_pressed="true" android:color="#4E94F8" />
+    <!-- Color when focused (e.g., using a keyboard/d-pad) -->
+    <item android:state_focused="true" android:color="#4C4CFB" />
+    <!-- Default hyperlink color -->
+    <item android:color="#000000" />
+</selector>
